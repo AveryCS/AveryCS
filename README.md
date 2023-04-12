@@ -1,4 +1,6 @@
-### Hi there 👋
+###### Hi, I'm Avery 👋
+###### 🌱 On the road to becoming a back end software engineer
+###### 🌱 Currently freelancing for a creative studio, looking to land my first full-time role.
 
 <!--
 **AveryCS/AveryCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
