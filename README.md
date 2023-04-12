@@ -1,5 +1,5 @@
 ###### Hi, I'm Avery 👋
-###### 🌱 On the road to becoming a back end software engineer
+###### 🌱 On the road to becoming a backend software engineer
 ###### 🌱 Currently freelancing for a creative studio, looking to land my first full-time role.
 
 <!--
