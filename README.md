@@ -1,7 +1,16 @@
 
 <p align="center">
-  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/e0b8a1fe-54e9-4baf-b6db-3a6d43eebf03" alt="image" width="750">
+  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/3a951d46-0cb2-4d80-a0f2-ef60215fe567" alt="image" width="750">
 </p>
+
+<p align="center">
+  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/9ec234cc-8753-4be7-b3a3-f17c88bf77cf" alt="image" width="750">
+</p>
+
+
+
+
+
 
 
 
@@ -23,5 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
