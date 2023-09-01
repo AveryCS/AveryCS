@@ -14,13 +14,18 @@
 
 
 
-
 <!--
 **AveryCS/AveryCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AveryCS)](https://git.io/streak-stats)
 
-![image](https://github.com/AveryCS/AveryCS/assets/97619724/e0b8a1fe-54e9-4baf-b6db-3a6d43eebf03)
 
-<img src="https://github.com/AveryCS/AveryCS/assets/97619724/e0b8a1fe-54e9-4baf-b6db-3a6d43eebf03" alt="image" width="1000" height="400">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveryCS)](https://github.com/AveryCS/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveryCS&layout=donut)](https://github.com/AveryCS/github-readme-stats)
+
+![LeetCode Card](https://leetcode-card.vercel.app/api?username=AveryCS&style=dark)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
