@@ -1,10 +1,17 @@
-###### Hi, I'm Avery 👋🏽 👋🏽
-###### 🌱 Backend software engineer
-###### 🌱 Currently freelancing for a creative studio.
+
+<p align="center">
+  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/e0b8a1fe-54e9-4baf-b6db-3a6d43eebf03" alt="image" width="750">
+</p>
+
+
+
 
 <!--
 **AveryCS/AveryCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![image](https://github.com/AveryCS/AveryCS/assets/97619724/e0b8a1fe-54e9-4baf-b6db-3a6d43eebf03)
+
+<img src="https://github.com/AveryCS/AveryCS/assets/97619724/e0b8a1fe-54e9-4baf-b6db-3a6d43eebf03" alt="image" width="1000" height="400">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
