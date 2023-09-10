@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/9ec234cc-8753-4be7-b3a3-f17c88bf77cf" alt="image" width="750">
+  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/2346bdd1-0941-4572-8426-5cdfec54512c" alt="image" width="750">
 </p>
+
+
 
 
 
