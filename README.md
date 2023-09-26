@@ -8,10 +8,23 @@
 
 
 
-
 <p align="center">
   <img src="https://github.com/AveryCS/AveryCS/assets/97619724/c4aba9d2-96de-4ad5-8dfc-662e480d782a" alt="image" width="750">
 </p>
+
+<br>
+<p align="center">
+  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/2f137ad6-5675-4fe4-8ae8-dab754b4db1a" alt="image" width="750">
+<p align="center">
+  <a href="https://medium.com/@averydcs">Tech blog</a>
+</p>
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://github.com/AveryCS/AveryCS/assets/97619724/c63d3186-278e-440e-9ca8-369451856a7a" alt="image" width="750">
 <p align="center">
@@ -19,6 +32,12 @@
   &nbsp; | &nbsp;
   <a href="mailto:Averydcs@gmail.com">Email</a>
 </p>
+
+
+
+
+
+
 
 
 
