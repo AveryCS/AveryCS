@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/2346bdd1-0941-4572-8426-5cdfec54512c" alt="image" width="750">
+  <img src="https://github.com/AveryCS/AveryCS/assets/97619724/c4aba9d2-96de-4ad5-8dfc-662e480d782a" alt="image" width="750">
 </p>
 <p align="center">
   <img src="https://github.com/AveryCS/AveryCS/assets/97619724/c63d3186-278e-440e-9ca8-369451856a7a" alt="image" width="750">
@@ -19,6 +19,7 @@
   &nbsp; | &nbsp;
   <a href="mailto:Averydcs@gmail.com">Email</a>
 </p>
+
 
 
 
